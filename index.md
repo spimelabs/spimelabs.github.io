@@ -1,3 +1,3 @@
 ### Spimelabs
 
-We provide embded and distributed systems solutions
+Building embded and distributed systems with a touch of formal verification
