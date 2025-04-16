@@ -9,8 +9,7 @@ Building complex systems with the help of formal models and tools
 
 |    News              |                                                                                                    |
 | ----                 | -----                                                                                              |
-|    Apr 2025          |    We are excited to launch Spimelabs, a virtual lab focusing on building complex systems 
-                            with the help of formal models and tools                                                        |
+|    Apr 2025          |    We are excited to launch Spimelabs, a virtual lab focusing on building complex systems with the help of formal models and tools  |
 
 
 #### Projects
