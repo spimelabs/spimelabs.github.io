@@ -1,3 +1,3 @@
 ### Spimelabs
 
-Building embded and distributed systems with a touch of formal verification
+Building complex systems with the help of formal models and tools
