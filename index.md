@@ -9,9 +9,8 @@ For business inquiries, you can reach us at <strong>spimelabs[at]gmail.com</stro
 
 |    News              |                                                                                                    |
 | ----                 | -----                                                                                              |
-|    Sep 2026          |    We are excited to launch [Spimelabs](https://spimelabs.github.io/), a company focusing on building computer systems and solutions for a wide range of business domains. |
+|             |    We are excited to launch [Spimelabs](https://spimelabs.github.io/), a company focusing on building computer systems and solutions for a wide range of business domains. |
 
 <hr>
 
-#### Projects
-- <ins>DSTimer</ins> : a digital signage software with built-in support for text, images and videos.
+
