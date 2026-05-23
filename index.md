@@ -1,15 +1,13 @@
 ### Spimelabs
 
-Building complex systems with the help of formal models and tools
+We provide technological solutions to your business problems.
 
 #### People
-  * Moncef Trima [https://trima.github.io/](https://trima.github.io/)
-
-
+- CEO and product engineer : Moncef Trima [https://trima.github.io/](https://trima.github.io/)
 
 |    News              |                                                                                                    |
 | ----                 | -----                                                                                              |
-|    Apr 2025          |    We are excited to launch [Spimelabs](https://spimelabs.github.io/), a virtual lab focusing on building complex systems with the help of formal models and tools. |
+|    Sep 2026          |    We are excited to launch [Spimelabs](https://spimelabs.github.io/), a company focusing on building computer systems and solutions for a wide range of business domains. |
 
 #### Projects
-#### Publications
+- DSTimer : a digital signage software with built-in support for text, images and videos.
