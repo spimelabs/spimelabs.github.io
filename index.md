@@ -14,4 +14,4 @@ For business inquiries, you can reach us at <strong>spimelabs[at]gmail.com</stro
 <hr>
 
 #### Projects
-- DSTimer : a digital signage software with built-in support for text, images and videos.
+- <ins>DSTimer</ins> : a digital signage software with built-in support for text, images and videos.
